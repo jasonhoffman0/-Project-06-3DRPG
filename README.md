@@ -1,4 +1,4 @@
-# Exercise-06C-Dialog
+# Project 06
 
 # References
 
@@ -6,4 +6,4 @@ Textures from: https://freepbr.com/
 Models and animations from: Mixamo.com
 
 # Created by 
-Nathan Mishler
+Jason Hoffman
